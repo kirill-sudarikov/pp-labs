@@ -1,0 +1,141 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "lab-1/@cmake_cxx_std.lib"
+		}
+	],
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"lab-1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "_MBCS"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					0
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"fileSets" : 
+	[
+		{
+			"baseDirectories" : 
+			[
+				"C:/"
+			],
+			"name" : "CXX_MODULES",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	],
+	"id" : "@cmake_cxx_std::@c1d66285027a10484468",
+	"interfaceSources" : 
+	[
+		{
+			"fileSetIndex" : 0,
+			"fileSetIndexes" : 
+			[
+				0
+			],
+			"path" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"fileSetIndex" : 0,
+			"fileSetIndexes" : 
+			[
+				0
+			],
+			"path" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"name" : "@cmake_cxx_std",
+	"nameOnDisk" : "@cmake_cxx_std.lib",
+	"paths" : 
+	{
+		"build" : "lab-1",
+		"source" : "lab-1"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"interfaceSourceIndexes" : 
+			[
+				0,
+				1
+			],
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"compileGroupIndex" : 0,
+			"fileSetIndex" : 0,
+			"fileSetIndexes" : 
+			[
+				0
+			],
+			"path" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"compileGroupIndex" : 0,
+			"fileSetIndex" : 0,
+			"fileSetIndexes" : 
+			[
+				0
+			],
+			"path" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

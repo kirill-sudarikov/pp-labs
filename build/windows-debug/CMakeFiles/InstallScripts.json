@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/cmake_install.cmake",
+		"C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

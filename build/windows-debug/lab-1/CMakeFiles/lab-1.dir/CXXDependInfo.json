@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1",
+	"dir-cur-src" : "C:/Users/Kirill/Desktop/pp-labs/lab-1",
+	"dir-top-bld" : "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+	"dir-top-src" : "C:/Users/Kirill/Desktop/pp-labs",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir"
+	],
+	"module-dir" : "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/lab-1.dir",
+	"sources" : 
+	{
+		"lab-1/CMakeFiles/lab-1.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Kirill/Desktop/pp-labs/lab-1/main.cpp"
+		}
+	}
+}

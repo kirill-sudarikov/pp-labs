@@ -1,0 +1,25 @@
+# ninja log v7
+6	172	8115285022751678	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj.ddi	b12e95d201a7da4a
+22	319	8115285022898259	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/91cb1afc2f7d.bmi.ddi	805774fbc61482a0
+16	572	8115285022840710	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj.ddi	9428a447dee18ddd
+29	618	8115285022974826	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/30b8fe20521c.bmi.ddi	b324818432a1da2a
+45	146	8115288028378340	lab-1/CMakeFiles/@cmake_cxx_std.dir/CXX.dd	24aa25234060038
+45	146	8115288028378340	lab-1/CMakeFiles/@cmake_cxx_std.dir/CXXModules.json	24aa25234060038
+45	146	8115288028378340	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj.modmap	24aa25234060038
+45	146	8115288028378340	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj.modmap	24aa25234060038
+150	334	8115288029429247	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/CXX.dd	e2a9517ea43203d
+150	334	8115288029429247	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/CXXModules.json	e2a9517ea43203d
+150	334	8115288029429247	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/91cb1afc2f7d.bmi.modmap	e2a9517ea43203d
+150	334	8115288029429247	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/30b8fe20521c.bmi.modmap	e2a9517ea43203d
+1347	2148	8115285036126686	lab-1/CMakeFiles/lab-1.dir/main.cpp.obj.ddi	92c047781183de87
+337	500	8115288031303266	lab-1/CMakeFiles/lab-1.dir/CXX.dd	591113981148f2f7
+337	500	8115288031303266	lab-1/CMakeFiles/lab-1.dir/CXXModules.json	591113981148f2f7
+337	500	8115288031303266	lab-1/CMakeFiles/lab-1.dir/main.cpp.obj.modmap	591113981148f2f7
+761	12706	8115285149457573	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj	a6f5cb4dff7684f0
+761	12706	8115285149457573	lab-1/CMakeFiles/@cmake_cxx_std.dir/std.ifc	a6f5cb4dff7684f0
+12706	12951	8115285152067197	lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj	7860f4e990e8620a
+12706	12951	8115285152067197	lab-1/CMakeFiles/@cmake_cxx_std.dir/std.compat.ifc	7860f4e990e8620a
+12952	13057	8115285152189403	lab-1/@cmake_cxx_std.lib	13484b90b3b1b88c
+2912	14768	8115285168661826	lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/30b8fe20521c.bmi	7752a4701bb270b
+14768	15164	8115285170358112	lab-1/CMakeFiles/lab-1.dir/main.cpp.obj	127ee2f9c0fb569f
+15164	15678	8115285174313012	lab-1/lab-1.exe	4c78556c72f6d43e

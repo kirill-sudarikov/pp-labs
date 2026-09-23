@@ -1,0 +1,3 @@
+-interface
+-ifcOutput "lab-1\CMakeFiles\@cmake_cxx_std.dir\std.compat.ifc"
+-reference "std=lab-1\CMakeFiles\@cmake_cxx_std.dir\std.ifc"

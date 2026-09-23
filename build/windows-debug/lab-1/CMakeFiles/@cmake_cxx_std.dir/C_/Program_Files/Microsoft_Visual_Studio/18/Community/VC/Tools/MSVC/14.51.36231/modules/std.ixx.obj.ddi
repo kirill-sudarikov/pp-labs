@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Kirill\\Desktop\\pp-labs\\build\\windows-debug\\vc140.pdb",
+                "lab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx.obj.ddi",
+                "std.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

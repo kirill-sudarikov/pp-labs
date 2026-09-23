@@ -1,0 +1,3 @@
+-reference "std=lab-1\CMakeFiles\@cmake_cxx_std@synth_0.dir\30b8fe20521c.bmi"
+-reference "matrix=lab-1\CMakeFiles\lab-1.dir\matrix.ifc"
+-reference "random=lab-1\CMakeFiles\lab-1.dir\random.ifc"

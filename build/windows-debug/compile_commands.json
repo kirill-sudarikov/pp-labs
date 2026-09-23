@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++latest -MDd -RTC1 -Zi @lab-1\\CMakeFiles\\lab-1.dir\\main.cpp.obj.modmap /Folab-1\\CMakeFiles\\lab-1.dir\\main.cpp.obj /Fdlab-1\\CMakeFiles\\lab-1.dir\\ /FS -c C:\\Users\\Kirill\\Desktop\\pp-labs\\lab-1\\main.cpp",
+  "file": "C:/Users/Kirill/Desktop/pp-labs/lab-1/main.cpp",
+  "output": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/lab-1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @lab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx.obj.modmap /Folab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx.obj /Fdlab-1\\CMakeFiles\\@cmake_cxx_std.dir\\@cmake_cxx_std.pdb /FS -c \"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx\"",
+  "file": "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx",
+  "output": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj"
+},
+{
+  "directory": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @lab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx.obj.modmap /Folab-1\\CMakeFiles\\@cmake_cxx_std.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx.obj /Fdlab-1\\CMakeFiles\\@cmake_cxx_std.dir\\@cmake_cxx_std.pdb /FS -c \"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx\"",
+  "file": "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx",
+  "output": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/@cmake_cxx_std.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj"
+},
+{
+  "directory": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++latest -MDd -RTC1 -Zi -ifcOnly -ifcOutput lab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\91cb1afc2f7d.bmi @lab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\91cb1afc2f7d.bmi.modmap /Folab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\91cb1afc2f7d.bmi /Fd\"\" /FS -c \"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx\"",
+  "file": "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx",
+  "output": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/91cb1afc2f7d.bmi"
+},
+{
+  "directory": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /utf-8 /W4 /Ob0 /Od -std:c++latest -MDd -RTC1 -Zi -ifcOnly -ifcOutput lab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\30b8fe20521c.bmi @lab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\30b8fe20521c.bmi.modmap /Folab-1\\CMakeFiles\\@cmake_cxx_std@synth_0.dir\\30b8fe20521c.bmi /Fd\"\" /FS -c \"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.ixx\"",
+  "file": "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/modules/std.ixx",
+  "output": "C:/Users/Kirill/Desktop/pp-labs/build/windows-debug/lab-1/CMakeFiles/@cmake_cxx_std@synth_0.dir/30b8fe20521c.bmi"
+}
+]

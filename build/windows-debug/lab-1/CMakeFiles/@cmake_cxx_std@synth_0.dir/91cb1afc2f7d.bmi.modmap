@@ -1,0 +1,3 @@
+-interface
+-ifcOutput "lab-1\CMakeFiles\@cmake_cxx_std@synth_0.dir\91cb1afc2f7d.bmi"
+-reference "std=lab-1\CMakeFiles\@cmake_cxx_std@synth_0.dir\30b8fe20521c.bmi"
