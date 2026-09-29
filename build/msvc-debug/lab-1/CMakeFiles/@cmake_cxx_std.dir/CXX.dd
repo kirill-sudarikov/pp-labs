@@ -1,7 +1,0 @@
-ninja_dyndep_version = 1.0
-build lab-1\CMakeFiles\@cmake_cxx_std.dir\C_\Program_Files\Microsoft_Visual_Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.compat.ixx.obj | lab-1\CMakeFiles\@cmake_cxx_std.dir\std.compat.ifc: dyndep | lab-1\CMakeFiles\@cmake_cxx_std.dir\std.ifc
-  restat = 1
-
-build lab-1\CMakeFiles\@cmake_cxx_std.dir\C_\Program_Files\Microsoft_Visual_Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.ixx.obj | lab-1\CMakeFiles\@cmake_cxx_std.dir\std.ifc: dyndep
-  restat = 1
-
