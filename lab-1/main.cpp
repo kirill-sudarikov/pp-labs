@@ -50,7 +50,7 @@ int main(int argc, char *argv[]) {
       std::println("Результат сохранён в result.bin");
     }
 
-    if (command == "generate") {
+    else if (command == "generate") {
       if (argc != 7) {
         throw std::invalid_argument("использование: lab-1 generate <size> "
                                     "<min> <max> <seed> <output.bin>");
@@ -68,6 +68,11 @@ int main(int argc, char *argv[]) {
 
       std::println("Матрица {} x {} сохранена в {}", matrix.size(),
                    matrix.size(), output);
+    } else {
+      throw std::invalid_argument(
+          "использование:\n"
+          "  lab-1 generate <size> <min> <max> <seed> <output.bin>\n"
+          "  lab-1 multiply <a.bin> <b.bin>");
     }
   } catch (const std::exception &e) {
     std::cerr << "Произошла ошибка: " << e.what() << '\n';
