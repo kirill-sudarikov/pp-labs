@@ -23,7 +23,7 @@ int main(int argc, char **argv) {
       MPI_Comm_rank(MPI_COMM_WORLD, &rank); // определение номера процесса
     } catch (const std::exception &e) {
     //...
-  }
+    }
 
   MPI_Finalize(); // завершение MPI
   return 0;
@@ -62,7 +62,7 @@ int main(int argc, char **argv) {
       //...
     } catch (const std::exception &e) {
     //...
-  }
+    }
 
   MPI_Finalize();
   return 0;
@@ -84,11 +84,11 @@ int main(int argc, char **argv) {
         //...
         square_matrix<double> c(c_data, n);
         c.save_binary(c_filename);
-    }
+      }
 
     } catch (const std::exception &e) {
     //...
-  }
+    }
 
   MPI_Finalize();
   return 0;
